@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ApkSQLite</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">item list</string>
+    <string name="title_favorit">Favorit</string>
+    <string name="hello_home_fragment">Selamat datang</string>
+    <string name="title_about">Tentang</string>
+    <string name="spell_name">Nama item</string>
+    <string name="detail">Detail</string>
+    <string name="stambuk">Stambuk</string>
+    <string name="email">E-mail</string>
+    <string name="hello_account_fragment">This Is Your Profile</string>
+    <string name="sign_out">Keluar</string>
+    <string name="title_profile">Profile</string>
+</resources>
